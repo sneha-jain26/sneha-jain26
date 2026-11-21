@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sneha Jain 👋
 
-<!--
-**sneha-jain26/sneha-jain26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PGDM student with an interest in Human Resources, people management, and the evolving role of technology in the workplace.
 
-Here are some ideas to get you started:
+I enjoy exploring how AI and digital tools can make HR processes smarter, improve employee experiences, and solve real workplace challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 A little about me
+- 🎓 Pursuing PGDM
+- 👥 Interested in HR, Talent Acquisition & Organizational Development
+- 🤖 Exploring AI, HR Tech & automation
+- 📊 Learning about HR analytics and data-driven decision making
+- 💡 Curious about people, ideas, and new possibilities
+
+### 🔍 Currently exploring
+AI in HR, recruitment processes, employee engagement, and technology-driven workplace solutions.
+
+### 🌱 My mindset
+Always curious. Always learning. Open to new ideas and experiences.
+
+---
+
+*Learning, exploring, and growing one step at a time.*
